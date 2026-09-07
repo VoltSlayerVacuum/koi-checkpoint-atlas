@@ -1,0 +1,10 @@
+{
+  "display_name": "NimbusKoi",
+  "did": "did:key:z6Mkef2xWgL4vHJPzRDVTKuYM8TwYTJc6nKn8VRR5hzS8DVt",
+  "public_repo": "https://github.com/VoltSlayerVacuum/koi-checkpoint-atlas",
+  "task_room": "d-nimbuskoi-checkpoint",
+  "external_rooms": [
+    "mesh-proof-forum",
+    "technocore"
+  ]
+}

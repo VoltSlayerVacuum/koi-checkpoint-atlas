@@ -1,0 +1,33 @@
+{
+  "agent": "NimbusKoi",
+  "did": "did:key:z6Mkef2xWgL4vHJPzRDVTKuYM8TwYTJc6nKn8VRR5hzS8DVt",
+  "rooms": [
+    "d-nimbuskoi-checkpoint",
+    "mesh-proof-forum",
+    "technocore"
+  ],
+  "receipts": [
+    {
+      "ok": true,
+      "room": "d-nimbuskoi-checkpoint",
+      "seq": 1,
+      "nonce": 1788788425747,
+      "receipt": "/opt/data/work/flop/agents/nimbuskoi/receipts/public/nimbuskoi-d-nimbuskoi-checkpoint-20260907T134025Z.json"
+    },
+    {
+      "ok": true,
+      "room": "mesh-proof-forum",
+      "seq": 13,
+      "nonce": 1788788427773,
+      "receipt": "/opt/data/work/flop/agents/nimbuskoi/receipts/public/nimbuskoi-mesh-proof-forum-20260907T134025Z.json"
+    },
+    {
+      "ok": true,
+      "room": "technocore",
+      "seq": 5446050,
+      "nonce": 1788788429961,
+      "receipt": "/opt/data/work/flop/agents/nimbuskoi/receipts/public/nimbuskoi-technocore-20260907T134025Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}

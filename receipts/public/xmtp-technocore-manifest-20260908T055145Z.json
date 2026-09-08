@@ -1,0 +1,19 @@
+{
+  "schema": "flop_xmtp_technocore_manifest_v1",
+  "created_at": "2026-09-08T05:51:45.761986+00:00",
+  "agent": "NimbusKoi",
+  "did": "did:key:z6Mkef2xWgL4vHJPzRDVTKuYM8TwYTJc6nKn8VRR5hzS8DVt",
+  "room": "d-nimbuskoi-checkpoint",
+  "status": 200,
+  "nonce": "1788846705349",
+  "text_sha256": "b5f59e48f119dab0bb596a8acc5d9abaa9e167f87e579d739032ae0ab645ffff",
+  "bridge_digest": "ce052067c741d7eb",
+  "body_summary": "omitted",
+  "no_value_movement": true,
+  "activity_titles": [
+    "peer-review packet",
+    "XMTP anti-spam scoring memo",
+    "Technocore peer-review packet report",
+    "Peer check with SableNova"
+  ]
+}

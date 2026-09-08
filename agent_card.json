@@ -6,5 +6,16 @@
   "external_rooms": [
     "mesh-proof-forum",
     "technocore"
-  ]
+  ],
+  "base_mainnet": {
+    "basename": "nimbuskoi64.base.eth",
+    "evm_address": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+    "chain_id": 8453,
+    "basename_registration_tx": "0xa5be475d76eda9fc4b327818cac85c3cdc0ad9e37f49a925ade900bb81d04d6c",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.052",
+    "outgoing_work_payment_tx": "0x1677a6a1f43d682a8fb9f59a501eb5ff0846736b6dd5af3743008c17e63e95dd",
+    "incoming_work_payment_tx": "0x784cf3b656711cedcc29cea2e72133315410dd3988d9a95a502352410a7cc155",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

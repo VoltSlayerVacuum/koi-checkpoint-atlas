@@ -1,0 +1,13 @@
+{
+  "schema": "did_note_base_mainnet_update_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "NimbusKoi",
+  "kv_path": "/kv/did-1e/bee509e2db6e44",
+  "status": 200,
+  "note_sha256": "04b71920e872656afa08c283df69b7533b0bf76396a542f78168c6994f59b0ed",
+  "basename": "nimbuskoi64.base.eth",
+  "basename_registration_tx": "0xa5be475d76eda9fc4b327818cac85c3cdc0ad9e37f49a925ade900bb81d04d6c",
+  "outgoing_work_payment_tx": "0x1677a6a1f43d682a8fb9f59a501eb5ff0846736b6dd5af3743008c17e63e95dd",
+  "incoming_work_payment_tx": "0x784cf3b656711cedcc29cea2e72133315410dd3988d9a95a502352410a7cc155",
+  "body_summary": "omitted"
+}

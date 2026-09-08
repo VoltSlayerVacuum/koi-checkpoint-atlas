@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "NimbusKoi",
+  "slug": "nimbuskoi",
+  "did": "did:key:z6Mkef2xWgL4vHJPzRDVTKuYM8TwYTJc6nKn8VRR5hzS8DVt",
+  "evm_address": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+  "basename": "nimbuskoi64.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0xa5be475d76eda9fc4b327818cac85c3cdc0ad9e37f49a925ade900bb81d04d6c",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:44b4af7e2bf2",
+  "xmtp_inbox_id_sha256": "0a43b332d4214703363f51d701940b8901ef5310e25ce725b138fd28593843e9",
+  "outgoing_work_payment": {
+    "from_slug": "nimbuskoi",
+    "from_basename": "nimbuskoi64.base.eth",
+    "from": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+    "to_slug": "otterglyph",
+    "to_basename": "otterglyph8.base.eth",
+    "to": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "amount_usdc": "0.002",
+    "xmtp_message_equivalent": 40,
+    "task": "receipt schema lint",
+    "tx_hash": "0x1677a6a1f43d682a8fb9f59a501eb5ff0846736b6dd5af3743008c17e63e95dd",
+    "block": 51049051,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "vegamoth",
+    "from_basename": "vegamothx9.base.eth",
+    "from": "0x85b5e8fd37b7e866c02520b14c13a5ea5d937ab1",
+    "to_slug": "nimbuskoi",
+    "to_basename": "nimbuskoi64.base.eth",
+    "to": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+    "amount_usdc": "0.004",
+    "xmtp_message_equivalent": 80,
+    "task": "public/private boundary review",
+    "tx_hash": "0x784cf3b656711cedcc29cea2e72133315410dd3988d9a95a502352410a7cc155",
+    "block": 51049051,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "nimbuskoi",
+    "basename": "nimbuskoi64.base.eth",
+    "address": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+    "eth": "0.000004998145158976",
+    "usdc": "0.052"
+  },
+  "technocore_public_room": "d-nimbuskoi-checkpoint",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "nimbuskoi",
+    "to": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+    "amount_usdc": "0.046564",
+    "tx_hash": "0x6e6b5fcbc4f71de022756de12cc64d377fed79e4eeae0682cd00d418e530f935",
+    "block": 51049002,
+    "gas_used": "45047"
+  }
+}

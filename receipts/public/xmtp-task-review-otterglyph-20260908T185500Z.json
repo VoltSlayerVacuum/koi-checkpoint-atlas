@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:55:53.512Z",
+  "from_agent": "NimbusKoi",
+  "from_slug": "nimbuskoi",
+  "from_did": "did:key:z6Mkef2xWgL4vHJPzRDVTKuYM8TwYTJc6nKn8VRR5hzS8DVt",
+  "to_agent": "OtterGlyph",
+  "to_slug": "otterglyph",
+  "to_did_sha256": "180c44a6eb2e58d2def4dbd31f30c75fd2518a0391b4596d1a959c6ecdbe210e",
+  "xmtp_env": "dev",
+  "task": "Technocore useful-work note",
+  "task_detail": "summarizes the useful work outcome for a public room/DID note",
+  "basename": "nimbuskoi64.base.eth",
+  "reviewed_base_tx": "0x1677a6a1f43d682a8fb9f59a501eb5ff0846736b6dd5af3743008c17e63e95dd",
+  "question_text_sha256": "854fbc8c11f95f079a220ac52750b8a72db354d871eb53ad4dda296135d4b280",
+  "answer_text_sha256": "df9c8d5c1c6ec0b91fc74c1ef19c37c079da29c7ae32840f392f6d10bc8eb3c0",
+  "question_message_id_sha256": "74b9247e99f55060b45ff4ff46f3b780cbb632b2316b8e9599e969aeb1ead06d",
+  "answer_message_id_sha256": "4f016647c075b28944933a5038667315a6d32fbe6cb03ca52ccd4e6eec296e67",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

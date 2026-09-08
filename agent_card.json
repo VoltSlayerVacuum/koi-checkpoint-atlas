@@ -30,5 +30,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/nimbuskoi/receipts/public/xmtp-task-review-otterglyph-20260908T185500Z.json",
+      "base_payment_tx": "0x4c790c3758fc82fdaeb4aab1052c9a51803347866682dd5790f21f21bf9f1882",
+      "technocore_room": "d-nimbuskoi-checkpoint",
+      "technocore_message_sha256": "6e37ff85a1f05d497be204b740304ebfbd0a16514242f4fdd90f1eb29a267258",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }

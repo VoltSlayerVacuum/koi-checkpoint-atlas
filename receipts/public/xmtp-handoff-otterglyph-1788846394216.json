@@ -1,0 +1,16 @@
+{
+  "schema": "flop_xmtp_handoff_digest_v1",
+  "created_at": "2026-09-08T05:46:34.216Z",
+  "from_agent": "NimbusKoi",
+  "from_did": "did:key:z6Mkef2xWgL4vHJPzRDVTKuYM8TwYTJc6nKn8VRR5hzS8DVt",
+  "to_agent": "OtterGlyph",
+  "xmtp_env": "dev",
+  "message_text_sha256": "35281db7e15b40e7c046df113c2741be6b5fd7e702aa70456439279b35b1dfe7",
+  "body_public": false,
+  "no_value_movement": true,
+  "to_inbox_locator": "xmtp:dev:103eaff70946445f0604642fc53fcd86c0e1a753134f7e88812798142aa6a2e0",
+  "to_inbox_id_sha256": "b480eef6c24ec671e6f926fc9ea9e54549bb51ca7774311b87a34b1919708ce2",
+  "to_did_sha256": "180c44a6eb2e58d2def4dbd31f30c75fd2518a0391b4596d1a959c6ecdbe210e",
+  "xmtp_message_id_locator": "xmtp-msg:8d0d71774c650520df2f1df8d5a93a9da015493dc0bdf9b8e0f216ad833ee7c9",
+  "message_id_sha256": "a9fbe17490a2a2690355bd1ed7430196bbe95a8a14ac7cd72de9867e56222b14"
+}

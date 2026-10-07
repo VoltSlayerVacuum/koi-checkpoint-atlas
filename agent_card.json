@@ -39,5 +39,14 @@
       "technocore_message_sha256": "6e37ff85a1f05d497be204b740304ebfbd0a16514242f4fdd90f1eb29a267258",
       "payer_registry_status": "not_funded_this_round"
     }
-  }
+  },
+  "x_handle": null,
+  "x_account_url": null,
+  "relay_profile": null,
+  "x_login_verified_at": null,
+  "x_social_cycle": null,
+  "twitter_relay_profile": null,
+  "x_status": "removed_pending_replacement",
+  "x_removed_at": "20261007T071755Z",
+  "x_removal_reason": "old X account failed live post/write checks or was suspended; pending replacement account"
 }
